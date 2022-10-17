@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somesh Bhandari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh001yt&label=Profile%20views&color=0e75b6&style=flat" alt="somesh001yt" /> </p>
-
 - 🌱 I’m currently learning **React and node.js**
 
-- 🤝 I’m looking for help with [Stack-Overflow](https://github.com/Somesh001yt/Stack-Overflow)
+- 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **someshcr7b@gmail.com**
 
@@ -22,5 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somesh001yt&show_icons=true&locale=en&layout=compact" alt="somesh001yt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somesh001yt&show_icons=true&locale=en" alt="somesh001yt" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somesh001yt&show_icons=true&locale=en" alt="somesh001yt"  /></p>
