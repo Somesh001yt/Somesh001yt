@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somesh Bhandari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React and node.js**
+- 🌱 I’m currently working as a **Software Developer**
 
 - 💬 Ask me about **react, javascript**
 
